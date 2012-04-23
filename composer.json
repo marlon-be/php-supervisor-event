@@ -1,0 +1,6 @@
+{
+    "name": "marlon-be/php-supervisor-event",
+    "autoload": {
+        "psr-0": { "Supervisor": "src/" }
+    }
+}
